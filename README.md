@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors game
 
-The project is in the context of my postgraduate program(Web and Data science) based on the famous game rock-paper-scissors. The aim of this project is to create a game app that two agents will play against each other. Our agent is trying to detect an image with noise which have been picked by a random agent and then tries to pick the right move in order to win the round. The model is based on Convolutional Neural Networks(CNN) which is a type of Deep Learning neural network architecture commonly used in Computer Vision.
+The project is in the context of my postgraduate program(Web and Data science) based on the famous game rock-paper-scissors. The aim of this project is to create a game app that two agents will play against each other. Our agent is trying to detect an image with noise which have been picked by a random agent and then tries to pick the right move in order to win the round. The model is based on Convolutional Neural Networks(CNN) which is a type of Deep Learning neural network architecture commonly used in Computer Vision. The reason of choosing CNN model is because they can process large amounts of dataand produce highly accurate predictions.
 
 ## Table of Contents
 - [Overview](#overview)
